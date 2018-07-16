@@ -5,10 +5,18 @@ body {
     }
     
 .info-section {
+                border: 1 pt;
+}
+#title-section { 
+                border: 1 pt;
   
 }
-#title-section {
+
+#welcome { 
+          border: 1 pt;
   
+}
+
 }
 h3 {
   font-size: 300%;
