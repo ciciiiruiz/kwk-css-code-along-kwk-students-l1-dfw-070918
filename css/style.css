@@ -2,6 +2,8 @@
 body {
       background-color: red;
       font-size: 150%;
+      text-align: center;
+      text-shadow: green;
     }
     
 .info-section {
